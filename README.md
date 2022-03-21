@@ -14,7 +14,7 @@ The implementation for this problem should follow below rules:
 
 ## Assumption:
 1. One reservation cannot be completed if there are not enough seats left or the number of customers is less than or equal to 0.
-2. Due to COVID-19, the theater should require that gap between each customer is 3 seats and one rows, making that only 25 seats available.
+2. Due to COVID-19, the theater should require that gap between each customer is 3 seats and one row, making that only 25 seats available.
 3. The order of the reservation is the order of the input file.
 
 ## Rules to fullfill customer Satisfactions:
